@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: The board
+    url: https://github.com/orgs/Neomechanical/projects/1
+    about: Every open task, who has claimed it, and where it stands.
