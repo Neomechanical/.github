@@ -1,5 +1,8 @@
 ## What changed
 
+## Bet
+<!-- The company-plan bet this serves (IDEA-NNNN), or its upkeep kind: fix, incident, privacy, security, reliability, docs or ops. -->
+
 ## Why
 
 ## How it was tested
